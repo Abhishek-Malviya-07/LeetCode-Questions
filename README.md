@@ -23,20 +23,25 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
