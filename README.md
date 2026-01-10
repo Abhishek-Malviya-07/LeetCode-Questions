@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
 |  |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
