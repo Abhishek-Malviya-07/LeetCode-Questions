@@ -63,4 +63,12 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
