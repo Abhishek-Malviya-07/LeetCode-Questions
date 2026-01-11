@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
@@ -49,4 +51,16 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
