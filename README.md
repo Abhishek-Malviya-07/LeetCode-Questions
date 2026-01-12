@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
