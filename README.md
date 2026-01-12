@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Geometry
 |  |
 | ------- |
