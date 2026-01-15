@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
@@ -106,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
