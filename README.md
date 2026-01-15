@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Depth-First Search
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
