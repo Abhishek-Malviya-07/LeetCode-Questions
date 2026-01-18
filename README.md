@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0141-linked-list-cycle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -168,5 +170,10 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
