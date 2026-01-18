@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [3453-separate-squares-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 ## Hash Table
@@ -160,9 +162,11 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
