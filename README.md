@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
@@ -196,4 +198,16 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
