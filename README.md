@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Binary Search
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
 | ------- |
