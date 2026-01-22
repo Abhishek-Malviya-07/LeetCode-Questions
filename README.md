@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0328-odd-even-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -211,8 +215,17 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
