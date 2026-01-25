@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0148-sort-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Doubly-Linked List
 |  |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
