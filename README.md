@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1200-minimum-absolute-difference](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0148-sort-list) |
+| [1200-minimum-absolute-difference](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
