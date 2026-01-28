@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3454-separate-squares-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
 | ------- |
