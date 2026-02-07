@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0090-subsets-ii) |
 ## Memoization
 |  |
