@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0110-balanced-binary-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0110-balanced-binary-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -214,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0148-sort-list) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -276,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Graph Theory
 |  |
@@ -300,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
