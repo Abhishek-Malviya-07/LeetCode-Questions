@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
