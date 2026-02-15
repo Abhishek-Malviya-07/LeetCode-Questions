@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
