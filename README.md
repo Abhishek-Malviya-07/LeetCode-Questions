@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Queue
