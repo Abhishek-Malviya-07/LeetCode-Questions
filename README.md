@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
