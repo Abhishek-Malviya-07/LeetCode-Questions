@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0066-plus-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 ## Binary Search Tree
 |  |
