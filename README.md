@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0761-special-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
