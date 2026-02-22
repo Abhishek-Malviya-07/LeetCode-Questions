@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0090-subsets-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0401-binary-watch) |
+| [0868-binary-gap](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0868-binary-gap) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Queue
