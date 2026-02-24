@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0110-balanced-binary-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## String
