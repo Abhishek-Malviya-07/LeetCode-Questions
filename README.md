@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0401-binary-watch](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
