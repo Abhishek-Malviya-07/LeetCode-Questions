@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
