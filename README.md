@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1622-fancy-sequence](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [1622-fancy-sequence](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 ## Enumeration
 |  |
 | ------- |
