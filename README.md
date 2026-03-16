@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1622-fancy-sequence](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1200-minimum-absolute-difference](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -283,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0209-minimum-size-subarray-sum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -331,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
