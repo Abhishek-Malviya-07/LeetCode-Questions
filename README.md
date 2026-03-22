@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
