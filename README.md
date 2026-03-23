@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1695-maximum-erasure-value](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1695-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
