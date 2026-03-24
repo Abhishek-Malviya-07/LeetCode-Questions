@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2906-construct-product-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
+| [2906-construct-product-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2906-construct-product-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
