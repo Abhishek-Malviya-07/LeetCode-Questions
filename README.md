@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1895-largest-magic-square) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -393,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -438,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
