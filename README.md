@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1980-find-unique-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -450,4 +452,8 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
