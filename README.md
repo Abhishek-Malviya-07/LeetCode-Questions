@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3637-trionic-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3453-separate-squares-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [2751-robot-collisions](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Doubly-Linked List
 |  |
 | ------- |
