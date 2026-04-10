@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3693-climbing-stairs-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Tree
 |  |
 | ------- |
