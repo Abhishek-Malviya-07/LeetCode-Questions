@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1980-find-unique-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2751-robot-collisions) |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Trie
 |  |
 | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Backtracking
 |  |
