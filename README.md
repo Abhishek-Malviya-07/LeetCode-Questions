@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3640-trionic-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
