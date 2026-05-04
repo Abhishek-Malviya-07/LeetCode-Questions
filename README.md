@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0090-subsets-ii) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
