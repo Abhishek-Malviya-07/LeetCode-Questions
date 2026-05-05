@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0021-merge-two-sorted-lists](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0143-reorder-list) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0148-sort-list) |
