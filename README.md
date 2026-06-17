@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [2573-find-the-string-with-lcp](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [3379-transformed-array](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Ordered Set
 |  |
 | ------- |
