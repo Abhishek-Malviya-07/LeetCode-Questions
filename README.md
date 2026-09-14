@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! -
 | [0069-sqrtx](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1622-fancy-sequence](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1622-fancy-sequence) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
