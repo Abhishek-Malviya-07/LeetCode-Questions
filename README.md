@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0509-fibonacci-number) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
@@ -501,4 +504,8 @@ Collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/3474-lexicographically-smallest-generated-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhishek-Malviya-07/LeetCode-Questions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
